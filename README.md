@@ -37,7 +37,7 @@ MODULE-01-FOUNDATION/
 Exemplo:
 
 ```text
-LAB-015/
+LAB-001/
 ```
 
 Cada laboratório possui seu próprio código-fonte e documentação, podendo ser estudado e executado de forma independente.
@@ -81,11 +81,11 @@ Cada módulo introduz novas competências e prepara a base para o módulo seguin
 
 O SEN Systems Lab foi desenvolvido para:
 
-* ensinar Engenharia de Software através da evolução incremental de uma única aplicação;
-* introduzir exatamente um novo conceito por laboratório;
-* demonstrar decisões arquiteturais utilizadas em aplicações corporativas;
-* aproximar o processo de aprendizagem do desenvolvimento profissional de software;
-* construir uma plataforma completa, consistente e continuamente evolutiva.
+* Ensinar Engenharia de Software através da evolução incremental de uma única aplicação;
+* Introduzir exatamente um novo conceito por laboratório;
+* Demonstrar decisões arquiteturais utilizadas em aplicações corporativas;
+* Aproximar o processo de aprendizagem do desenvolvimento profissional de software;
+* Construir uma plataforma completa, consistente e continuamente evolutiva.
 
 ---
 
@@ -121,9 +121,9 @@ Cada laboratório representa um único passo arquitetural.
 
 Cada laboratório contém:
 
-* documentação completa;
-* código-fonte completo;
-* estrutura completa do projeto.
+* Documentação completa;
+* Código-fonte completo;
+* Estrutura completa do projeto.
 
 Todos os laboratórios podem ser executados de forma independente.
 
@@ -151,19 +151,8 @@ CHANGELOG.md
 
 MODULE-01-FOUNDATION/
 
-MODULE-02-OBJECT-ORIENTED-PROGRAMMING/
+...
 
-MODULE-03-RICH-DOMAIN-MODEL/
-
-MODULE-04-PERSISTENCE/
-
-MODULE-05-REST-APIS/
-
-MODULE-06-TESTING/
-
-MODULE-07-ENTERPRISE-ARCHITECTURE/
-
-MODULE-08-PRODUCTION-READY/
 ```
 
 Essa organização reduz a carga cognitiva durante a navegação e permite que o projeto cresça de forma organizada e escalável.
@@ -171,73 +160,13 @@ Essa organização reduz a carga cognitiva durante a navegação e permite que o
 ---
 
 # Roadmap
+INFORMAÇÃO IMPORTANTE: Em desenvolvimento e os labs deste módulo e os próximos módulos serão disponibilizados por etapas incrementalmente, nesta etapa está sendo estruturado a arquitetura do projeto SEN Systems Lab.
 
 ## MODULE-01 — Foundation
 
 Construção da infraestrutura inicial da plataforma.
 
-* LAB-015 — Foundation & Planning
-* LAB-016 — Project Bootstrap
-
----
-
-## MODULE-02 — Object-Oriented Programming
-
-Fundamentos da linguagem Java e da Orientação a Objetos.
-
-* LAB-017 — Classes
-* LAB-018 — Objects
-* LAB-019 — Encapsulation
-* LAB-020 — Constructors
-* LAB-021 — Enum
-* LAB-022 — Composition
-* LAB-023 — Domain Validation
-* LAB-024 — Domain Behavior
-
----
-
-## MODULE-03 — Rich Domain Model
-
-Construção de um domínio rico inspirado em sistemas financeiros.
-
-* LAB-025 — State Transition Rules
-* LAB-026 — Domain Exceptions
-* LAB-027 — Package Organization
-* LAB-028 — Service Layer
-* LAB-029 — Application Services
-* LAB-030 — Repository Abstraction
-* LAB-031 — Factory Pattern
-* LAB-032 — Domain Services
-
----
-
-## MODULE-04 — Persistence
-
-Persistência de dados utilizando tecnologias amplamente adotadas pelo mercado.
-
----
-
-## MODULE-05 — REST APIs
-
-Construção de APIs RESTful seguindo boas práticas de arquitetura.
-
----
-
-## MODULE-06 — Testing
-
-Testes unitários, testes de integração e qualidade de software.
-
----
-
-## MODULE-07 — Enterprise Architecture
-
-Arquiteturas modernas utilizadas em aplicações corporativas.
-
----
-
-## MODULE-08 — Production Ready
-
-Preparação da aplicação para ambientes de produção.
+...
 
 ---
 
