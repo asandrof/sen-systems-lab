@@ -1,8 +1,8 @@
-# Changelog
+# CHANGELOG
 
 Todas as mudanças relevantes realizadas no **SEN Systems Lab** serão registradas neste documento.
 
-Este changelog acompanha exclusivamente a evolução da plataforma como um todo.
+Este CHANGELOG acompanha exclusivamente a evolução da plataforma como um todo.
 
 As alterações específicas de cada laboratório são documentadas no arquivo `CHANGELOG.md` existente dentro do respectivo laboratório.
 
@@ -20,20 +20,7 @@ A plataforma passou a ser organizada em módulos de conhecimento.
 
 ```text
 MODULE-01-FOUNDATION
-
-MODULE-02-OBJECT-ORIENTED-PROGRAMMING
-
-MODULE-03-RICH-DOMAIN-MODEL
-
-MODULE-04-PERSISTENCE
-
-MODULE-05-REST-APIS
-
-MODULE-06-TESTING
-
-MODULE-07-ENTERPRISE-ARCHITECTURE
-
-MODULE-08-PRODUCTION-READY
+...
 ```
 
 Essa organização melhora significativamente a navegação no repositório e permite que a plataforma cresça de forma escalável.
@@ -109,9 +96,9 @@ Introdução dos primeiros laboratórios da trilha de aprendizagem.
 
 O versionamento da plataforma utiliza o padrão Semantic Versioning.
 
-* **MAJOR** — mudanças estruturais na plataforma.
-* **MINOR** — novos módulos ou grandes blocos de conhecimento.
-* **PATCH** — ajustes de documentação, correções e melhorias sem impacto estrutural.
+* **MAJOR** - mudanças estruturais na plataforma.
+* **MINOR** - novos módulos ou grandes blocos de conhecimento.
+* **PATCH** - ajustes de documentação, correções e melhorias sem impacto estrutural.
 
 ---
 
