@@ -54,9 +54,9 @@ Todo laboratório deve ser completamente independente.
 
 Cada snapshot deve conter:
 
-* documentação completa;
-* código-fonte completo;
-* estrutura completa do projeto.
+* Documentação completa;
+* Código-fonte completo;
+* Estrutura completa do projeto.
 
 ---
 
@@ -81,13 +81,7 @@ CONTRIBUTING.md
 CHANGELOG.md
 
 MODULE-01-FOUNDATION/
-MODULE-02-OBJECT-ORIENTED-PROGRAMMING/
-MODULE-03-RICH-DOMAIN-MODEL/
-MODULE-04-PERSISTENCE/
-MODULE-05-REST-APIS/
-MODULE-06-TESTING/
-MODULE-07-ENTERPRISE-ARCHITECTURE/
-MODULE-08-PRODUCTION-READY/
+...
 ```
 
 Cada módulo agrupa laboratórios pertencentes à mesma etapa de conhecimento.
@@ -174,9 +168,9 @@ Laboratórios já concluídos são considerados snapshots históricos da platafo
 
 Após sua conclusão:
 
-* não devem receber melhorias metodológicas;
-* não devem ser reestruturados;
-* somente poderão ser alterados para correção de erros técnicos relevantes.
+* Não devem receber melhorias metodológicas;
+* Não devem ser reestruturados;
+* Somente poderão ser alterados para correção de erros técnicos relevantes.
 
 Melhorias identificadas durante a evolução da plataforma passam a valer apenas para os laboratórios futuros.
 
@@ -201,13 +195,13 @@ Todo Pull Request deve responder claramente às seguintes perguntas.
 
 Uma contribuição somente será considerada concluída quando atender aos seguintes critérios:
 
-* código compilando;
-* documentação atualizada;
-* snapshot completo;
-* terminologia consistente;
-* arquitetura preservada;
-* um único conceito novo introduzido;
-* compatibilidade com toda a evolução anterior da plataforma.
+* Código compilando;
+* Documentação atualizada;
+* Snapshot completo;
+* Terminologia consistente;
+* Arquitetura preservada;
+* Um único conceito novo introduzido;
+* Compatibilidade com toda a evolução anterior da plataforma.
 
 ---
 
