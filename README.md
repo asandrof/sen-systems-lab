@@ -1,10 +1,10 @@
 # SEN Systems Lab
 
 > **One Platform. Incremental Evolution. Real Engineering.**
+> 
+O **SEN Systems Lab** é um laboratório prático de engenharia de software focado na construção incremental de sistemas de *backend*, utilizando uma única aplicação Java em evolução como base para experimentos técnicos progressivos.
 
-O **SEN Systems Lab** é uma plataforma de aprendizagem em Engenharia de Software construída sobre a evolução contínua de uma única aplicação Java.
-
-Diferentemente de cursos baseados em dezenas de projetos independentes, toda a jornada acontece sobre o mesmo sistema. Cada laboratório representa um **snapshot completo, documentado e executável**, permitindo acompanhar a evolução da plataforma desde sua criação até uma aplicação corporativa preparada para produção.
+Diferentemente dos projetos independentes, toda a jornada acontece sobre o mesmo sistema. Cada laboratório representa um **snapshot completo, documentado e executável**, permitindo acompanhar a evolução da plataforma desde sua criação até uma aplicação corporativa preparada para produção.
 
 O objetivo do projeto não é apenas ensinar Java ou frameworks específicos, mas demonstrar como um software evolui através de decisões arquiteturais, boas práticas de engenharia e documentação técnica consistente.
 
@@ -21,7 +21,7 @@ O objetivo do projeto não é apenas ensinar Java ou frameworks específicos, ma
 ## Clone o repositório
 
 ```bash
-git clone https://github.com/<organization>/SEN-Systems-Lab.git
+git clone https://github.com/asandrof/sen-systems-lab.git
 ```
 
 ## Navegue até um módulo
@@ -160,7 +160,7 @@ Essa organização reduz a carga cognitiva durante a navegação e permite que o
 ---
 
 # Roadmap
-INFORMAÇÃO IMPORTANTE: Em desenvolvimento e os labs deste módulo e os próximos módulos serão disponibilizados por etapas incrementalmente, nesta etapa está sendo estruturado a arquitetura do projeto SEN Systems Lab.
+INFORMAÇÃO IMPORTANTE: O repository está sendo publicado incrementalmente,nesta etapa está sendo estruturado a arquitetura do projeto SEN Systems Lab.
 
 ## MODULE-01 — Foundation
 
@@ -208,17 +208,12 @@ A plataforma foi projetada para construir conhecimento de forma incremental, red
 Ao longo da evolução da plataforma serão introduzidas tecnologias amplamente utilizadas pela indústria, incluindo:
 
 * Java
-* Spring Boot
-* Spring Data JPA
-* Hibernate
-* PostgreSQL
-* JUnit 5
-* Mockito
-* Testcontainers
-* Docker
-* Kubernetes
-* OpenTelemetry
-* GitHub Actions
+* Backend
+* Software-Engineering
+* Spring-Boot
+* Systems-Engineering
+
+...
 
 Cada tecnologia será introduzida somente quando fizer sentido dentro da evolução natural da plataforma.
 
@@ -228,12 +223,12 @@ Cada tecnologia será introduzida somente quando fizer sentido dentro da evoluç
 
 O SEN Systems Lab foi desenvolvido para:
 
-* Backend Engineers
-* Software Engineers
-* Software Architects
-* Platform Engineers
-* Estudantes de Engenharia de Software
-* Profissionais em transição para desenvolvimento backend
+* Backend Engineers.
+* Software Engineers.
+* Software Architects.
+* Platform Engineers.
+* Estudantes de Engenharia de Software.
+* Profissionais em transição para desenvolvimento backend.
 
 ---
 
