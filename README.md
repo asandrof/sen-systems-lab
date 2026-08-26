@@ -6,7 +6,7 @@
 
 O **SEN Systems Lab** é uma iniciativa do **Systems Engineering Notes (SEN)** dedicada à exploração prática de engenharia de software, engenharia de backend, Java, modelagem de domínio, arquitetura de software e evolução de sistemas.
 
-O Lab é construído sobre uma única plataforma de software em evolução contínua. Por meio de uma sequência estruturada de **Modulos** e **Labs**, a plataforma incorpora progressivamente novos conceitos, capacidades, decisões arquiteturais e desafios de engenharia.
+O Lab é construído sobre uma única plataforma de software em evolução contínua. Por meio de uma sequência estruturada de **Modulos** e **Labs**, a plataforma incorpora progressivamente novos conceitos, capacidades, decisões arquiteturais e desafios.
 
 O propósito não é apenas construir software, mas **aprender como os sistemas de software evoluem e ficam mais complexos para atender ou resolver um problema**.
 
@@ -56,7 +56,7 @@ Requisitos mudam. Modelos tornam-se mais ricos. Dependências surgem. Decisões 
 
 O SEN Systems Lab existe para tornar essa evolução observável.
 
-Em vez de estudar engenharia de software somente por meio de exemplos isolados, o Lab acompanha a evolução contínua de um sistema e analisa as decisões de engenharia que moldam essa evolução.
+Em vez de estudar engenharia de software somente por meio de exemplos isolados, o Lab acompanha a evolução contínua de um sistema e analisa as decisões de engenharia de software que moldam essa evolução.
 
 A questão central é:
 
@@ -77,7 +77,7 @@ Conceito
    ↓
 Requisito
    ↓
-Decisão de Engenharia
+Decisão 
    ↓
 Design
    ↓
@@ -107,7 +107,7 @@ Estado N do Sistema
         ↓
 Novo Requisito
         ↓
-Nova Decisão de Engenharia
+Nova Decisão 
         ↓
 Implementação
         ↓
@@ -230,7 +230,7 @@ O SEN Systems Lab produz conhecimento por meio da evolução do sistema.
 
 Cada etapa pode revelar:
 
-- Princípios de engenharia;
+- Princípios de engenharia de software;
 - Decisões de design;
 - Decisões arquiteturais;
 - Padrões;
@@ -245,7 +245,7 @@ A relação pode ser representada por:
 ```text
 Sistema
    +
-Decisões de Engenharia
+Decisões 
    +
 Evolução
    +
@@ -262,7 +262,7 @@ Esse conhecimento passa a fazer parte do ecossistema de conhecimento do SEN.
 
 O SEN Systems Lab foi concebido como uma **iniciativa de longo prazo**.
 
-Sua evolução é organizada em torno de etapas de engenharia, e não de uma frequência fixa de publicação ou atualização do repositório.
+Sua evolução é organizada em torno de etapas de engenharia de software, e não de uma frequência fixa de publicação ou atualização do repositório.
 
 Entre diferentes Labs existem ciclos dedicados à definição, modelagem, implementação, revisão, documentação e preparação das próximas etapas.
 
@@ -273,7 +273,7 @@ O SEN Systems Lab mantém uma direção contínua:
 ```text
 Sistema Atual
       ↓
-Próximo Desafio de Engenharia
+Próximo Desafio 
       ↓
 Próximo Lab
       ↓
@@ -281,7 +281,7 @@ Evolução do Sistema
       ↓
 Novo Conhecimento
       ↓
-Próximo Desafio de Engenharia
+Próximo Desafio
 ```
 
 Esse ciclo constitui parte fundamental da proposta do projeto.
@@ -308,7 +308,7 @@ A visão de longo prazo do SEN Systems Lab é estabelecer uma trajetória extens
 
 A partir dos fundamentos, a plataforma evolui progressivamente para domínios mais ricos, fronteiras de sistema mais amplas, maior complexidade, comportamento distribuído, requisitos de confiabilidade, restrições de performance, observabilidade e outros desafios associados a sistemas modernos.
 
-O objetivo é construir uma jornada coerente de engenharia na qual cada etapa contribua para uma compreensão mais profunda de design, arquitetura e evolução de sistemas.
+O objetivo é construir uma jornada coerente de engenharia de software na qual cada etapa contribua para uma compreensão mais profunda de design, arquitetura e evolução de sistemas.
 
 ```text
 Construir
@@ -342,7 +342,7 @@ SEN
 └── Evolution
 ```
 
-O SEN Systems Lab estabelece um ambiente contínuo no qual conhecimento de engenharia pode ser explorado por meio da evolução de sistemas de software.
+O SEN Systems Lab estabelece um ambiente contínuo no qual o conhecimento pode ser explorado por meio da evolução de sistemas de software.
 
 ---
 
