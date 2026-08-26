@@ -1,6 +1,6 @@
 # SEN Systems Lab
 
-**Systems Engineering Notes — Systems Lab**
+**Systems Engineering Notes - Systems Lab**
 
 > **Knowledge. Engineering. Evolution.**
 
