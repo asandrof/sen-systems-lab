@@ -1,6 +1,6 @@
 # SEN Systems Lab
 
-**Systems Engineering Notes - Systems Lab**
+**Systems Engineering Notes - SEN Systems Lab**
 
 > **Knowledge. Engineering. Evolution.**
 
@@ -48,13 +48,13 @@ A sequência é intencionalmente estruturada para que cada estágio utilize como
 
 ---
 
-## Por que o SEN Systems Lab existe
+## Por que o SEN  existe
 
 Sistemas de software não permanecem estáticos, eles evoluem.
 
 Requisitos mudam. Modelos tornam-se mais ricos. Dependências surgem. Decisões arquiteturais produzem consequências. Novas restrições aparecem. Soluções existentes passam a interagir com problemas que não estavam presentes quando foram originalmente introduzidas.
 
-O SEN Systems Lab existe para tornar essa evolução observável.
+O SEN  existe para tornar essa evolução observável.
 
 Em vez de estudar engenharia de software somente por meio de exemplos isolados, o Lab acompanha a evolução contínua de um sistema e analisa as decisões de engenharia de software que moldam essa evolução.
 
@@ -66,7 +66,7 @@ A questão central é:
 
 ## Conceito central
 
-O SEN Systems Lab parte de um princípio:
+O SEN  parte de um princípio:
 
 > **O sistema e o conhecimento sobre o sistema evoluem juntos.**
 
@@ -98,7 +98,7 @@ As decisões, consequências, trade-offs e princípios identificados durante a e
 
 ## Uma única plataforma em evolução
 
-O SEN Systems Lab utiliza uma única plataforma como base para sua evolução.
+O SEN  utiliza uma única plataforma como base para sua evolução.
 
 Novas capacidades são progressivamente incorporadas ao sistema existente, mantendo uma trajetória arquitetural contínua.
 
@@ -126,7 +126,7 @@ Isso permite aprender não apenas soluções individuais, mas também as relaç�
 
 ## Modulos
 
-A evolução do SEN Systems Lab é organizada em **Modulos**.
+A evolução do SEN  é organizada em **Modulos**.
 
 Cada Modulo representa uma área importante de conhecimento e evolução do sistema.
 
@@ -162,7 +162,7 @@ Introduz persistência e as consequências arquiteturais relacionadas ao armazen
 
 Introduz interfaces externas e a evolução da plataforma para interação por meio de APIs.
 
-Novos Modulos ampliam progressivamente a trajetória do Systems Lab.
+Novos Modulos ampliam progressivamente a trajetória do SEN Systems Lab.
 
 ---
 
