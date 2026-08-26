@@ -132,31 +132,31 @@ Cada Modulo representa uma área importante de conhecimento e evolução do sist
 
 A estrutura inicial inclui:
 
-### MODULO-01 — FOUNDATION
+### MODULO-01 - FOUNDATION
 
 **LAB-001 → LAB-016**
 
 Estabelece os fundamentos da plataforma e os princípios de engenharia de software necessários para as etapas seguintes.
 
-### MODULO-02 — OBJECT-ORIENTED PROGRAMMING
+### MODULO-02 - OBJECT-ORIENTED PROGRAMMING
 
 **LAB-017 → LAB-024**
 
 Explora programação orientada a objetos dentro da plataforma em evolução.
 
-### MODULO-03 — RICH DOMAIN MODEL
+### MODULO-03 - RICH DOMAIN MODEL
 
 **LAB-025 → LAB-032**
 
 Desenvolve o modelo de domínio e introduz conceitos relacionados a comportamento, regras e modelagem rica.
 
-### MODULO-04 — PERSISTENCE
+### MODULO-04 - PERSISTENCE
 
 **LAB-033 → LAB-040**
 
 Introduz persistência e as consequências arquiteturais relacionadas ao armazenamento e recuperação do estado do sistema.
 
-### MODULO-05 — REST APIs
+### MODULO-05 - REST APIs
 
 **LAB-041 → LAB-048**
 
