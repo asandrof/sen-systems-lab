@@ -6,9 +6,9 @@
 
 O **SEN Systems Lab** é uma iniciativa do **Systems Engineering Notes (SEN)** dedicada à exploração prática de engenharia de software, engenharia de backend, Java, modelagem de domínio, arquitetura de software e evolução de sistemas.
 
-O Lab é construído sobre uma única plataforma de software em evolução contínua. Por meio de uma sequência estruturada de **Modules** e **Labs**, a plataforma incorpora progressivamente novos conceitos, capacidades, decisões arquiteturais e desafios de engenharia.
+O Lab é construído sobre uma única plataforma de software em evolução contínua. Por meio de uma sequência estruturada de **Modulos** e **Labs**, a plataforma incorpora progressivamente novos conceitos, capacidades, decisões arquiteturais e desafios de engenharia.
 
-O propósito não é apenas construir software, mas **estudar como sistemas de software evoluem**.
+O propósito não é apenas construir software, mas **aprender como os sistemas de software evoluem e ficam mais complexos para atender ou resolver um problema**.
 
 ---
 
@@ -50,9 +50,7 @@ A sequência é intencionalmente estruturada para que cada estágio utilize como
 
 ## Por que o Systems Lab existe
 
-Sistemas de software não permanecem estáticos.
-
-Eles evoluem.
+Sistemas de software não permanecem estáticos, eles evoluem.
 
 Requisitos mudam. Modelos tornam-se mais ricos. Dependências surgem. Decisões arquiteturais produzem consequências. Novas restrições aparecem. Soluções existentes passam a interagir com problemas que não estavam presentes quando foram originalmente introduzidas.
 
@@ -68,7 +66,7 @@ A questão central é:
 
 ## Conceito central
 
-O Systems Lab parte de um princípio:
+O SEN Systems Lab parte de um princípio:
 
 > **O sistema e o conhecimento sobre o sistema evoluem juntos.**
 
@@ -90,7 +88,7 @@ Consequência Arquitetural
 Conhecimento
 ```
 
-Isso estabelece uma relação contínua entre prática de engenharia e compreensão arquitetural.
+Isso estabelece uma relação contínua entre prática de engenharia de software e compreensão arquitetural.
 
 A implementação é, portanto, apenas uma parte do Lab.
 
@@ -122,49 +120,49 @@ Próxima Evolução
 
 À medida que o sistema evolui, as decisões anteriores passam a fazer parte do contexto das decisões futuras.
 
-Isso permite estudar não apenas soluções individuais, mas também as relações entre elas.
+Isso permite aprender não apenas soluções individuais, mas também as relações entre elas.
 
 ---
 
-## Modules
+## Modulos
 
-A evolução do Systems Lab é organizada em **Modules**.
+A evolução do SEN Systems Lab é organizada em **Modulos**.
 
-Cada Module representa uma área importante de conhecimento e evolução do sistema.
+Cada Modulo representa uma área importante de conhecimento e evolução do sistema.
 
 A estrutura inicial inclui:
 
-### MODULE-01 — FOUNDATION
+### MODULO-01 — FOUNDATION
 
 **LAB-001 → LAB-016**
 
-Estabelece os fundamentos da plataforma e os princípios de engenharia necessários para as etapas seguintes.
+Estabelece os fundamentos da plataforma e os princípios de engenharia de software necessários para as etapas seguintes.
 
-### MODULE-02 — OBJECT-ORIENTED PROGRAMMING
+### MODULO-02 — OBJECT-ORIENTED PROGRAMMING
 
 **LAB-017 → LAB-024**
 
 Explora programação orientada a objetos dentro da plataforma em evolução.
 
-### MODULE-03 — RICH DOMAIN MODEL
+### MODULO-03 — RICH DOMAIN MODEL
 
 **LAB-025 → LAB-032**
 
 Desenvolve o modelo de domínio e introduz conceitos relacionados a comportamento, regras e modelagem rica.
 
-### MODULE-04 — PERSISTENCE
+### MODULO-04 — PERSISTENCE
 
 **LAB-033 → LAB-040**
 
 Introduz persistência e as consequências arquiteturais relacionadas ao armazenamento e recuperação do estado do sistema.
 
-### MODULE-05 — REST APIs
+### MODULO-05 — REST APIs
 
 **LAB-041 → LAB-048**
 
 Introduz interfaces externas e a evolução da plataforma para interação por meio de APIs.
 
-Novos Modules ampliam progressivamente a trajetória do Systems Lab.
+Novos Modulos ampliam progressivamente a trajetória do Systems Lab.
 
 ---
 
@@ -176,14 +174,14 @@ Cada Lab possui uma posição definida na sequência geral e contribui para a ev
 
 Um Lab pode introduzir:
 
-- um novo conceito;
-- uma nova capacidade;
-- uma nova decisão arquitetural;
-- um novo comportamento de domínio;
-- uma nova preocupação de qualidade;
-- uma nova fronteira de integração;
-- uma nova restrição;
-- ou uma nova perspectiva sobre uma parte existente do sistema.
+- Um novo conceito;
+- Uma nova capacidade;
+- Uma nova decisão arquitetural;
+- Um novo comportamento de domínio;
+- Uma nova preocupação de qualidade;
+- Uma nova fronteira de integração;
+- Uma nova restrição;
+- Ou uma nova perspectiva sobre uma parte existente do sistema.
 
 Os Labs são, portanto, conectados entre si.
 
@@ -226,21 +224,21 @@ Essas áreas são introduzidas progressivamente e conectadas pela evolução da 
 
 ---
 
-## Conhecimento de engenharia
+## Conhecimento 
 
-O Systems Lab produz conhecimento por meio da evolução do sistema.
+O SEN Systems Lab produz conhecimento por meio da evolução do sistema.
 
 Cada etapa pode revelar:
 
-- princípios de engenharia;
-- decisões de design;
-- decisões arquiteturais;
-- padrões;
-- trade-offs;
-- modos de falha;
-- técnicas de modelagem;
-- práticas de qualidade;
-- estratégias de evolução.
+- Princípios de engenharia;
+- Decisões de design;
+- Decisões arquiteturais;
+- Padrões;
+- Trade-offs;
+- Modos de falha;
+- Técnicas de modelagem;
+- Práticas de qualidade;
+- Estratégias de evolução.
 
 A relação pode ser representada por:
 
@@ -270,7 +268,7 @@ Entre diferentes Labs existem ciclos dedicados à definição, modelagem, implem
 
 Por isso, a evolução do projeto deve ser compreendida principalmente por sua **trajetória arquitetural e pela sequência dos Labs**, e não apenas pela frequência de atividade no repositório.
 
-O Systems Lab mantém uma direção contínua:
+O SEN Systems Lab mantém uma direção contínua:
 
 ```text
 Sistema Atual
@@ -332,21 +330,19 @@ Construir novamente
 
 O SEN Systems Lab faz parte do ecossistema **Systems Engineering Notes**.
 
-Dentro do SEN, o Systems Lab representa a dimensão prática de construção, experimentação, evolução e produção de conhecimento arquitetural.
-
-Ele conecta conceitos e princípios a sistemas reais e à história de sua evolução.
+Dentro do SEN, o SEN Systems Lab representa a dimensão prática de construção, experimentação, evolução e produção de conhecimento arquitetural, ele conecta conceitos e princípios a sistemas reais e à história de sua evolução.
 
 ```text
 SEN
 │
 ├── Knowledge
 ├── Engineering
-├── Systems Lab
+├── SEN Systems Lab
 ├── Architecture
 └── Evolution
 ```
 
-O Systems Lab estabelece um ambiente contínuo no qual conhecimento de engenharia pode ser explorado por meio da evolução de sistemas de software.
+O SEN Systems Lab estabelece um ambiente contínuo no qual conhecimento de engenharia pode ser explorado por meio da evolução de sistemas de software.
 
 ---
 
@@ -356,6 +352,6 @@ O SEN Systems Lab é construído em torno de uma ideia central:
 
 > **Build the system. Understand its evolution. Extract the knowledge.**
 
-**SEN — Systems Engineering Notes**
+**SEN - Systems Engineering Notes**
 
 **Knowledge. Engineering. Evolution.**
