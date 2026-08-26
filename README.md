@@ -18,7 +18,7 @@ O propósito não é apenas construir software, mas **aprender como os sistemas 
 
 O **SEN Systems Lab** será oficialmente lançado em **6 de outubro de 2026** como uma iniciativa de longo prazo do ecossistema Systems Engineering Notes.
 
-Sua fundação é uma plataforma de engenharia estruturada para evoluir progressivamente por meio de Modules e Labs.
+Sua fundação é uma plataforma de engenharia estruturada para evoluir progressivamente por meio de Modulos e Labs.
 
 Desde sua primeira etapa, o Lab estabelece uma trajetória contínua por diferentes áreas da engenharia de software.
 
@@ -294,7 +294,7 @@ Esse ciclo constitui parte fundamental da proposta do projeto.
 **Projeto:** SEN Systems Lab  
 **Organização:** Systems Engineering Notes (SEN)  
 **Natureza:** iniciativa de longo prazo em Systems Engineering  
-**Modelo:** evolução contínua por Modules e Labs
+**Modelo:** evolução contínua por Modulos e Labs
 
 O projeto segue uma estratégia de desenvolvimento progressivo, na qual cada etapa contribui para a trajetória arquitetural da plataforma.
 
