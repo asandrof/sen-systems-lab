@@ -168,7 +168,7 @@ Novos Modulos ampliam progressivamente a trajetória do Systems Lab.
 
 ## Labs
 
-Um **Lab** representa uma etapa específica da evolução dentro de um Module.
+Um **Lab** representa uma etapa específica da evolução dentro de um Modulo.
 
 Cada Lab possui uma posição definida na sequência geral e contribui para a evolução da plataforma.
 
