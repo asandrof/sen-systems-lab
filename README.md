@@ -48,7 +48,7 @@ A sequência é intencionalmente estruturada para que cada estágio utilize como
 
 ---
 
-## Por que o Systems Lab existe
+## Por que o SEN Systems Lab existe
 
 Sistemas de software não permanecem estáticos, eles evoluem.
 
