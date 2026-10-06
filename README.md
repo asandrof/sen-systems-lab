@@ -6,19 +6,19 @@
 
 O **SEN Systems Lab** é uma iniciativa do **Systems Engineering Notes (SEN)** dedicada à exploração prática de engenharia de software, engenharia de backend, Java, modelagem de domínio, arquitetura de software e evolução de sistemas.
 
-O Lab é construído sobre uma única plataforma de software em evolução contínua. Por meio de uma sequência estruturada de **Modulos** e **Labs**, a plataforma incorpora progressivamente novos conceitos, capacidades, decisões arquiteturais e desafios.
+O Lab é construído sobre uma única plataforma de software em evolução contínua. Por meio de uma sequência estruturada de **Módulos** e **Labs**, a plataforma incorpora progressivamente novos conceitos, capacidades, decisões arquiteturais e desafios.
 
-O propósito não é apenas construir software, mas **aprender como os sistemas de software evoluem e ficam mais complexos para atender ou resolver um problema**.
+O propósito não é apenas construir software, mas também **aprender como os sistemas de software evoluem e se tornam mais complexos para atender ou resolver um problema**.
 
 ---
 
 ## Lançamento do Projeto
 
-**Lançamento oficial: 6 de outubro de 2026**
+**Lançamento oficial: 13 de outubro de 2026**
 
-O **SEN Systems Lab** será oficialmente lançado em **6 de outubro de 2026** como uma iniciativa de longo prazo do ecossistema Systems Engineering Notes.
+O **SEN Systems Lab** será oficialmente lançado em **13 de outubro de 2026** como uma iniciativa de longo prazo do ecossistema Systems Engineering Notes.
 
-Sua fundação é uma plataforma de engenharia estruturada para evoluir progressivamente por meio de Modulos e Labs.
+Sua fundação é uma plataforma de engenharia estruturada para evoluir progressivamente por meio de Módulos e Labs.
 
 Desde sua primeira etapa, o Lab estabelece uma trajetória contínua por diferentes áreas da engenharia de software.
 
@@ -56,7 +56,7 @@ Requisitos mudam. Modelos tornam-se mais ricos. Dependências surgem. Decisões 
 
 O SEN  existe para tornar essa evolução observável.
 
-Em vez de estudar engenharia de software somente por meio de exemplos isolados, o Lab acompanha a evolução contínua de um sistema e analisa as decisões de engenharia de software que moldam essa evolução.
+Em vez de estudar engenharia de software apenas por meio de exemplos isolados, o Lab acompanha a evolução contínua de um sistema e analisa as decisões de engenharia de software que moldam essa evolução.
 
 A questão central é:
 
@@ -126,9 +126,9 @@ Isso permite aprender não apenas soluções individuais, mas também as relaç�
 
 ## Modulos
 
-A evolução do SEN  é organizada em **Modulos**.
+A evolução do SEN  é organizada em **Módulos**.
 
-Cada Modulo representa uma área importante de conhecimento e evolução do sistema.
+Cada Módulo representa uma área importante de conhecimento e evolução do sistema.
 
 A estrutura inicial inclui:
 
@@ -148,9 +148,9 @@ Explora programação orientada a objetos dentro da plataforma em evolução.
 
 **LAB-025 → LAB-032**
 
-Desenvolve o modelo de domínio e introduz conceitos relacionados a comportamento, regras e modelagem rica.
+Desenvolve o modelo de domínio e introduz conceitos relacionados ao comportamento, às regras e à modelagem rica.
 
-### MODULO-04 - PERSISTENCE
+### MÓDULO-04 - PERSISTENCE
 
 **LAB-033 → LAB-040**
 
@@ -162,13 +162,13 @@ Introduz persistência e as consequências arquiteturais relacionadas ao armazen
 
 Introduz interfaces externas e a evolução da plataforma para interação por meio de APIs.
 
-Novos Modulos ampliam progressivamente a trajetória do SEN Systems Lab.
+Novos Módulos ampliam progressivamente a trajetória do SEN Systems Lab.
 
 ---
 
 ## Labs
 
-Um **Lab** representa uma etapa específica da evolução dentro de um Modulo.
+Um **Lab** representa uma etapa específica da evolução dentro de um Módulo.
 
 Cada Lab possui uma posição definida na sequência geral e contribui para a evolução da plataforma.
 
@@ -294,7 +294,7 @@ Esse ciclo constitui parte fundamental da proposta do projeto.
 **Projeto:** SEN Systems Lab  
 **Organização:** Systems Engineering Notes (SEN)  
 **Natureza:** iniciativa de longo prazo em Systems Engineering  
-**Modelo:** evolução contínua por Modulos e Labs
+**Modelo:** evolução contínua por Módulos e Labs
 
 O projeto segue uma estratégia de desenvolvimento progressivo, na qual cada etapa contribui para a trajetória arquitetural da plataforma.
 
