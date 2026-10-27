@@ -14,9 +14,9 @@ O propósito não é apenas construir software, mas também **aprender como os s
 
 ## Lançamento do Projeto
 
-**Lançamento oficial: 27 de outubro de 2026**
+**Lançamento oficial: 03 de novembro de 2026**
 
-O **SEN Systems Lab** será oficialmente lançado em **27 de outubro de 2026** como uma iniciativa de longo prazo do ecossistema Systems Engineering Notes.
+O **SEN Systems Lab** será oficialmente lançado em **03 de novembro de 2026** como uma iniciativa de longo prazo do ecossistema Systems Engineering Notes.
 
 Sua fundação é uma plataforma de engenharia estruturada para evoluir progressivamente por meio de Módulos e Labs.
 
